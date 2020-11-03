@@ -1,0 +1,9 @@
+{
+  "name": "cloudant-crud-utils",
+  "version": "0.0.1",
+  "description": "Helper functions for the most common basic use-cases of cloudant CRUD",
+  "main": "index.js",
+  "repository": "git@github.ibm.com:Hendrik-Ulbrich/cloudant-crud-utils.git",
+  "author": "Hendrik Ulbrich <Hendrik.Ulbrich@de.ibm.com>",
+  "license": "MIT"
+}
